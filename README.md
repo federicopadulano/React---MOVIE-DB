@@ -1,3 +1,1 @@
-```sh
-npm install react-router-dom@6
-```
+Progetto molto semplice per mostrare una raccolta di film/serie tv da MovieDb con un design minimalista. //  Very simple project to show a collection of Movie/TV Shows from MovieDb with a minimalist design.
